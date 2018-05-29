@@ -1,0 +1,11 @@
+# IDE artifacts
+.vscode
+.idea
+
+# Python artifacts
+.python-version
+*.pyc
+*.pyd
+
+# Sensitive info
+config.cfg

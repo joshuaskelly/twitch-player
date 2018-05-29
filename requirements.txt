@@ -1,0 +1,2 @@
+keyboard==0.13.2
+twitchobserver==0.7.7
